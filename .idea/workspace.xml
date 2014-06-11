@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae14a1c0-542c-4e3e-9446-fa46f25d2c5a" name="Default" comment="" />
+    <list default="true" id="ae14a1c0-542c-4e3e-9446-fa46f25d2c5a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme" afterPath="$PROJECT_DIR$/readme" />
+    </list>
     <ignored path="dwiBTS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,15 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataModel.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/DataModel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="506">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="listview.tpl.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/weather/listview.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,10 +70,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="service.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/weather/service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="0.04631579" vertical-offset="66" max-vertical-offset="1496">
+            <state line="4" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1496">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.09821428" vertical-offset="0" max-vertical-offset="448">
               <folding />
             </state>
           </provider>
@@ -139,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/app/app.js" />
         <option value="$PROJECT_DIR$/src/app/DataModel.js" />
         <option value="$PROJECT_DIR$/src/app/weather/service.js" />
+        <option value="$PROJECT_DIR$/readme" />
       </list>
     </option>
   </component>
@@ -180,6 +186,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="dwiBTS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dwiBTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular_Beyond_The_Basics_Starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -228,10 +244,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -565,7 +581,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/weather/service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="0.04631579" vertical-offset="66" max-vertical-offset="1496">
+        <state line="4" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.09821428" vertical-offset="0" max-vertical-offset="176">
           <folding />
         </state>
       </provider>
